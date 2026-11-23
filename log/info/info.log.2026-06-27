@@ -1,0 +1,5 @@
+
+2026-06-28 00:45:01,235 - /home/user/project/OCR_UI/AI_platf_front/shexiangtou20250910/OCR_Standerd/yolov8toOCR4.py[line:497] - INFO: Traceback (most recent call last):
+  File "/home/user/project/OCR_UI/AI_platf_front/shexiangtou20250910/OCR_Standerd/yolov8toOCR4.py", line 475, in send_responses
+    "camera_status": response["camera_status"],
+KeyError: 'camera_status'
